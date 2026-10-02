@@ -2,29 +2,29 @@
   "id": "./",
   "name": "Woordentrainer – De finale woordenlijst",
   "short_name": "Woordentrainer",
-  "description": "Een interactieve Nederlandse woordentrainer met spelletjes en een reagerend monstertje.",
+  "description": "Een interactieve Nederlandse woordentrainer met een reagerend monstertje.",
   "lang": "nl",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#fbfaf7",
-  "theme_color": "#0e8a8f",
+  "background_color": "#f4f7f8",
+  "theme_color": "#087f83",
   "icons": [
     {
-      "src": "./icons/icon-192.png",
+      "src": "./icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/icon-512.png",
+      "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/icon-512-maskable.png",
+      "src": "./icon-512-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
